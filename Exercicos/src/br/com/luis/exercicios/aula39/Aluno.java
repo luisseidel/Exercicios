@@ -17,10 +17,6 @@ public class Aluno extends Pessoa{
 		this.notas = notas;
 	}
 	
-	public void verificarAcesso() {
-		
-	}
-
 	public double calcularMedia() {
 		return 0;
 	}
